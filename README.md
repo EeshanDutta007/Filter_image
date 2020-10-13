@@ -9,3 +9,5 @@ without using any in built features and functions). They are :-
 The user will be able to select any picture and the user is also given the privilege to click pictures then and there from 
 the camera. Crop function will also be available to the user. When clicking the functions/buttons of the filters, the pictures 
 will be shown with the filters applied.
+
+Done using python and opencv.
