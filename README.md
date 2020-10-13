@@ -1,4 +1,4 @@
-# SRMTH_Task4
+# Filter-Image using Python code
 The task is basically create a Graphic User Interface for editing pictures. There are four filters (created from scratch and 
 without using any in built features and functions). They are :- 
 1. Sobel Vertical
